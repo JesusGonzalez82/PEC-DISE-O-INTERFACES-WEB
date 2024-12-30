@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    border: 1px solid black;
+    padding: 30px;
+    /* margin-top: 40px; Esta configuración la utilice en un primer momento, pero no se adaptaba a todas las pantallas
+    margin-left: 485px;
+    margin-right: 485px;
+    margin-bottom: 40px; */
+    margin: 40px auto;
+    width: 550px;
+    max-width: 90%;
+    box-sizing: border-box;
+}
+h1{
+    color: hotpink;
+    border-bottom: 10px dotted purple;
+}
+h2{
+    font-style: italic;
+}
+ul{
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+a:hover{
+    color:green;
+}
